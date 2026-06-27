@@ -66,7 +66,7 @@ uv run python homework2.py
 | Q | Question | Answer |
 |---|----------|--------|
 | Q1 | First value of query embedding v[0]? | **-0.02** |
-| Q2 | Cosine similarity with sqlitesearch-vector.md? | **0.68** |
+| Q2 | Cosine similarity with sqlitesearch-vector.md? | **0.36** |
 | Q3 | Filename of highest-scoring chunk? | **02-vector-search/lessons/09-onnx-embedder.md** |
 | Q4 | First result from VectorSearch? | **04-evaluation/lessons/05-search-metrics.md** |
 | Q5 | In vector but not in text results? | **02-vector-search/lessons/08-pgvector.md** |
